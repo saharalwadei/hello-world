@@ -1,2 +1,2 @@
 # hello-world
-applying github guide
+This file is created by following the instructions in the GitHub Guide
